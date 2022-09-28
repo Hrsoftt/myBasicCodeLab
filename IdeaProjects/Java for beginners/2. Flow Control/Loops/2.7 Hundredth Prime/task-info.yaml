@@ -1,0 +1,23 @@
+type: output
+files:
+- name: test/output.txt
+  visible: false
+  encrypted_text: elwZ7T+xNCYKl9DfhbjfiQ==
+  learner_created: false
+- name: src/HundredthPrime.java
+  visible: true
+  placeholders:
+  - offset: 83
+    length: 24
+    placeholder_text: /* Complete the code. */
+    initial_state:
+      length: 24
+      offset: 83
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: CEDo3EHIa1Q3MRclYj2nc0byiPWywCCELLG9tYxNyhGET7wi1e+iFdHM/OyFomaQAMECjoMk3fUyXR0+kHGcPnKLMW8Hm6vSXnirDfZDTUJg07Ajz1FjsvdVrU0FsxqStlMEfhhPrlu8/Suu+qCq9PmlZh/3dtmelRnGnUX46Mw6b8NLxfXFqmD12cMuC8309FxAYiIM67v0T0ZkR/GbWyxI/suaAQTbhwAgsQ1jlmfxcqWIZXecSfaGoq5AoaNStdhjfAhVPb6ApPGe8P+7mlY7mMA+IuVs4f1UqS5aZkQLtvwbuv/MvdsBCo4/awqm+/fqupmHCk9HB94wIgjwvkb2/nPCIfL2fSRMZ31DF+0r3hBMr0teSncq9bPjuiocyt/3V7tvAd0ooLyoxNYnfMisdwmpmpkdaE9EDZpb0MWELEG9Jqf93rRFt7ToEoyvOWuhlZEuRTfNGyu5Z05Z6TcXpaDPDyxZCcS/ALmj9Kw=
+  encrypted_text: hqmE/NjSHhEgjiInp22jxYxpOA6RrlyJxT4yaLLF9Z+3Lqa/EdeL4VX+O7sdbVrw8L3sZVxazbwClN71g3W1pm/ra66OoHbX7lCwFF5pKn/HzfdcVi0jWYEocRBYpNLsQOXWJmhAG1/OXtg5tYLyA3yaQLm8yjuoKPxE68cN4Bo=
+  learner_created: false
+status: Unchecked
+record: -1

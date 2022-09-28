@@ -1,0 +1,23 @@
+type: output
+files:
+- name: test/output.txt
+  visible: false
+  encrypted_text: FQZUGACNYCz+c5xKORSZ0n7KBivm/Qr+bBfKq7CRMq0=
+  learner_created: false
+- name: src/Person.java
+  visible: true
+  placeholders:
+  - offset: 269
+    length: 43
+    placeholder_text: /* Print <name> lived to an age of <age> */
+    initial_state:
+      length: 43
+      offset: 269
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFPQCXptgL7qAdd7gsiNtw2t0TmfEFJVsbmxtGW0kaKZ0TOaawaCWjR5C313GAwoJzoSr1wr9Vj99m8yQUEBp71A=
+  encrypted_text: 2xdc+E3RLiXWutEek/Ocsdmj5H2YW7XdAr+G+0oFmYW5vYvNKlEDliTktX+p9ODaWaDTTCX6MPYzN6CIwhDwLBHwfs5MpZoWCG0+lH9jDsCxM6ARY8BkdzNXstPS2DEcOVkUlSHfH/B8mQytDDG2Nwvf/eSJDdRMS1UMg1h9lv0PZttD2NnwrlaJpUJ2WEhFqZgs9TGSxpRkfmYMWuiiz7fiesdtleMR3Y+Ebkxc07YKgStsELxrlp8UDmvDbc2PCxxR2Kgx06aK2InLgAcZAHX/pVoPgy4P7DFBlLCE8tXdsZ0gbJ7QqHF0mIR5XHfWm1uLo2AUE9KIvzXiFW3OTYwHtgzyrNnwB2raHCqDFAFmFi+azLdME1PPgR/Epq/L/tepBMVMSc6DvF+hES3vh8LU9NKK36r/arb/w2+lB77+vmN/Nr3keQ+iOlLf0kpF9NK/3WJuOoMLXdQKcyXGkOE2w8IuftPZgWJ34EG33O7ExD7Qf0YMITyIybEHrqTjvZkgQ9eqwpDX9ZSb93vMTRjbzD0E4+WmDEKxi/8bdlfVNhh+kMgHFYt87TlPFtgrw+wr82jp3oFdzhkDQV+c2j4lIuinAcBXrROczj80ULQ=
+  learner_created: false
+status: Unchecked
+record: -1

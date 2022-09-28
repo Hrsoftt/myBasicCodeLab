@@ -1,0 +1,23 @@
+type: output
+files:
+- name: test/output.txt
+  visible: false
+  encrypted_text: ap+/baokrxAgS5AJvqY8lXs8g8vA9Z4XlGqOqbKJ+pES/taV55FrUTH//CUmU3oK7op7MG/yxxoZ1EYVo1BAynCdllTB3yZxJhHwG6XFO+ZBQ+5+e2vS2VfMHNChpG2vWbc9relU64i2u0qAm+dK8DmlCfZYLHRexgj3F0Q12Tk2qx/jDJ0lq6rQPXQk/zg1MNIvoqDGB+9EwnuUjT01Qw==
+  learner_created: false
+- name: src/CafeReceipt.java
+  visible: true
+  placeholders:
+  - offset: 80
+    length: 54
+    placeholder_text: /* Declare and initialize the variables used below. */
+    initial_state:
+      length: 54
+      offset: 80
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: z6lqHDM5HG+/EpVjsGhKBd07o/YyI/dB775O7UaZO2fOiKpoe9bdmkmbr34bdZii4A4EQt5+wIMJtMXI3nQgJU6IvgRUsznFbKorvX9f3bWhBru/yErHzsUI6Q/pWST1L0SZCI6QlVx8LozVVeEM6eYKH/y09dMNoh0gCRghRAc=
+  encrypted_text: HqsctiXpAR56Om56BBdyp/JcfY7GbuPFrVYhPwWKp2s4ndE7tX7c0uO5Ky4IfygjeGdJW+k6eMQGXOZ6crG7xsamRjSPf0VJvy66L57+jvStinWgwMiNFQE/T26ENvyksOGNlYUR5NtlbIYzr+HTZxKYmGHPb7/uAWj5heOXeKfZQLXx17KAfdZ42RDOrdd7wH/kwxPXSnMgX55uKMsXW5dIcldpMU1CTL/mIvih2goAUolUy+uFxKYhhveWiQgi68cCoQ0B8HlFE/Wi5Xa83pliUFnNTnAYpANEgX7gVSN4ZfxemJmb2HP1ly4+l6Vl7SzyP6UKdU1JckB7+QPgOAlSbkQOHGhohWLTKCXCEToy0cmNrTol98Nj/N8e3UDd2GaUBdEUcRyRu4mIXdjNOriEyTdiNjSD9SEhtd4gWtOnjTyB4mi93+oYsU86G/FSnMBOkxRZTzPQEONUVPI4zSCaJslpRJmdzeypiU22bL5BC97oJcvhLAYw5bcqqNflWVP6vQPPRb2oecSnr8Njla+lg/6PyB0C5cj4VNktyNS6zybsIdml27lEvD5ZeXwpLuPh5l7CnL8rUjLE2s/KZBSeqfumSzDei2rFwK+qR+MHf4Si5CvE9ov/Uo9JGfdAQSdr0uW37GYyLfqiRY3l7B3kRJyFVC5JpWmffuZJfqM=
+  learner_created: false
+status: Unchecked
+record: -1

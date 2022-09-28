@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Smart_Calculator.Smart_Calculator-task-build-classes-java.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-classes-kotlin.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-reports-tests.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-test-results.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-tmp.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task.main" target="11" />
+      <module name="Smart_Calculator.Topics-BigInteger-Incorrect_lines.main" target="11" />
+      <module name="Smart_Calculator.Topics-BigInteger-LCM.main" target="11" />
+      <module name="Smart_Calculator.Topics-BigInteger-Max.main" target="11" />
+      <module name="Smart_Calculator.Topics-BigInteger-Simple_expression.main" target="11" />
+      <module name="Smart_Calculator.Topics-BigInteger-The_one.main" target="11" />
+      <module name="Smart_Calculator.Topics-BigInteger-Theory.main" target="11" />
+      <module name="Smart_Calculator.Topics-Commonly_Used_Regex-Pa.main" target="11" />
+      <module name="Smart_Calculator.Topics-Commonly_Used_Regex-Password_validation.main" target="11" />
+      <module name="Smart_Calculator.Topics-Commonly_Used_Regex-Right_group.main" target="11" />
+      <module name="Smart_Calculator.Topics-Commonly_Used_Regex-Theory.main" target="11" />
+      <module name="Smart_Calculator.Topics-Quantifiers-A_simple_regex.main" target="11" />
+      <module name="Smart_Calculator.Topics-Quantifiers-Float_number_regex.main" target="11" />
+      <module name="Smart_Calculator.Topics-Quantifiers-Matching_digits.main" target="11" />
+      <module name="Smart_Calculator.Topics-Quantifiers-OK_Computer.main" target="11" />
+      <module name="Smart_Calculator.Topics-Quantifiers-The_meaning_of_the_{n}_quantifier.main" target="11" />
+      <module name="Smart_Calculator.Topics-Quantifiers-The_plus_quantitifier.main" target="11" />
+      <module name="Smart_Calculator.Topics-Quantifiers-Theory.main" target="11" />
+      <module name="Smart_Calculator.Topics-Regexps-Can_you.main" target="11" />
+      <module name="Smart_Calculator.Topics-Regexps-Creating_regexes.main" target="11" />
+      <module name="Smart_Calculator.Topics-Regexps-Help_the_teacher.main" target="11" />
+      <module name="Smart_Calculator.Topics-Regexps-Matching_pattern.main" target="11" />
+      <module name="Smart_Calculator.Topics-Regexps-Theory.main" target="11" />
+      <module name="Smart_Calculator.Topics-Regexps_in_use-Multiple_items.main" target="11" />
+      <module name="Smart_Calculator.Topics-Regexps_in_use-Removing_chords.main" target="11" />
+      <module name="Smart_Calculator.Topics-Regexps_in_use-Sike,_that's_the_wrong_number.main" target="11" />
+      <module name="Smart_Calculator.Topics-Regexps_in_use-Splitting_with_spaces.main" target="11" />
+      <module name="Smart_Calculator.Topics-Regexps_in_use-Theory.main" target="11" />
+      <module name="Smart_Calculator.Topics-Regexps_in_use-Understanding_the_definitions.main" target="11" />
+      <module name="Smart_Calculator.Topics-Regexps_in_use-Web_colors.main" target="11" />
+      <module name="Smart_Calculator.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

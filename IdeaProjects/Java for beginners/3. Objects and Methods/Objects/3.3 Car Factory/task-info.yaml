@@ -1,0 +1,18 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: Car car1 = new Car();
+  is_correct: false
+- text: Car car2 = Car("van", false, 20000);
+  is_correct: false
+- text: Car car3 = new Car("coupe", false, 12000);
+  is_correct: true
+- text: car4 = new Car(32000, "sedan", true)
+  is_correct: false
+files:
+- name: src/Car.java
+  visible: true
+  encrypted_text: ubd06iXMrzX7Eg3IUgR80sJtqo2piEJ57pfD1EGqrBjy05qECqiohyFpfOMSxe2/Bf0zAMzUy/4N6ZaKANS7saBkzGv0xn+rfpUSoWoN2Q0CXmvO5aq3F3f0ZtpLZ2OSE2+dUJ2SsZSaQevQrgPV6Bw0plVHDUKGR1UbIcPte1eT1WsE/DE2NpXvoj6rb7T4AHP6QhkoaxG5tcQtJHQ9kXgO4jNPFuTVZKFhc+q1YcNTVXgK1qRkyScj0/Ho9gSaQF0Vij5QN7Frt1GeEjwgIeV1UoaQBYj7T0/Hs8iR8RJzIbjgCoF5/ncdIunq2UIpvWaqt0tDy/U4bSbIAYSbQg==
+  learner_created: false
+status: Unchecked
+record: -1

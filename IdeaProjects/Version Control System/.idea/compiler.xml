@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Version_Control_System.Topics-Creating_custom_exceptions-Catch_custom_exception.main" target="11" />
+      <module name="Version_Control_System.Topics-Creating_custom_exceptions-Correct_custom_exceptions.main" target="11" />
+      <module name="Version_Control_System.Topics-Creating_custom_exceptions-Multiple_constructors.main" target="11" />
+      <module name="Version_Control_System.Topics-Creating_custom_exceptions-Theory.main" target="11" />
+      <module name="Version_Control_System.Topics-Map-FizzBuzz.main" target="11" />
+      <module name="Version_Control_System.Topics-Map-Map_with_buildMap.main" target="11" />
+      <module name="Version_Control_System.Topics-Map-Products_in_store.main" target="11" />
+      <module name="Version_Control_System.Topics-Map-Theory.main" target="11" />
+      <module name="Version_Control_System.util.main" target="11" />
+      <module name="Version_Control_System.Version_Control_System-task-build-classes-kotlin.main" target="11" />
+      <module name="Version_Control_System.Version_Control_System-task-build-reports-tests.main" target="11" />
+      <module name="Version_Control_System.Version_Control_System-task-build-test-results.main" target="11" />
+      <module name="Version_Control_System.Version_Control_System-task-build-tmp.main" target="11" />
+      <module name="Version_Control_System.Version_Control_System-task.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

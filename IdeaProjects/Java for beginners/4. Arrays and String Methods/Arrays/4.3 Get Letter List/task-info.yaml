@@ -1,0 +1,24 @@
+type: edu
+files:
+- name: src/LettersList.java
+  visible: true
+  placeholders:
+  - offset: 31
+    length: 88
+    placeholder_text: /* Complete the getLettersList method that get the list of letters
+      in the input word. */
+    initial_state:
+      length: 88
+      offset: 31
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: bHFGXImwHJv+cRk9TWcTxBAp5aA03UsSKwZbVVtXqH0czQi8KopFDYZmNXYBL9XMKwHvM9qIGk4dQxHUsZKN9bnMpGimr45a+JSfXN/sw00Nx4qHRftIrvIIf0oL2/DuK6Obe2X6At/5wXRDcEeBFuzH0kxOM4k42Akoufvh2fgo4Swz46g33JI7ST59mrT+iyO2Py6+Qv2u+jLDMfH/31xM5NShp1wBxz34wgJep+IzZnD1+TIfReo2aS+vfoQXUDCK30E35g8zRQMo3C3MHAh4d2A6III0vH0TTed6Tetsuk/Xe9qU/jNBKMFL3dBeMz0DVwkWUdCVQoEweFKbFmsU65GkJ/HPufOWAZzb9t4=
+  encrypted_text: +zoxIaj+q3yK5LLekQnEv8ApZ7TXaQU8xv2aTSitLA0Xbd2WN3xXgIutWiH3zXhkDlsyhfG7/+h8I98GT1UDqIsrDBwJoh7KcUpnL6Kw5fr3Iow2yMBhT08P3nf7T1/bmf20XVvDBAL2EDHrs3BnQInC8gVbi8ZTTrb04kX4i1w=
+  learner_created: false
+- name: test/LettersTests.java
+  visible: false
+  encrypted_text: ITs8Nv8EH6QWJG5nufD7nELYfladGZWDUrKFjXZLNPDpD+ixobhbrJ/2kid8rWwa8EWo0FQzGTMGJdwTdB5HiEPuFdxjqoYF4gz4KHHR1GGBuy3pldTptkYa9oxBDzWSQARFwmffWDEe+cpmmRpBnlcg/vhkGLpTvm+nBlXg/5RCZ9T+dtaVJnoJ7DHsQJyAwOycwGHAW+R5qYAShR7HC/SNihgkkVY2g+vPVacl0CJm5C6GH4o2OnNaQAAXbxw2ppbXm8UZ6vXkDFzAkOQYtLLwT9bkjT5NAjUl1x8dNvbFMPBn8d4X79eNMqpP0AtmH58pg0iyqbGcouan0qEEuG7jhYNQLdKSrf6zoM4lJb2kUsTaSXwiNVyzOL3h9RZx37JfSlmbZgacEV6N36uCgCQtsOESJf0h8tTl1AOxtWpOMaqOIIsY5vuZFIKVeS0Dk9OmCNNYDOxj6XKlQvmhNnycT3yeIJZvymIn15EbpeKrbbnzUPHUBpHEhH8bbbNh4cviOw9IukR9nxmnpusrvpvLPTHDPkd2pMwij5w/SLU=
+  learner_created: false
+status: Unchecked
+record: -1
